@@ -5,6 +5,7 @@ public class TestProject {
 		// TODO Auto-generated method stub
 		System.out.print("This is a test project");
 		System.out.print("Create local repo");
+		System.out.print("Add feature");
 	}
 
 }
